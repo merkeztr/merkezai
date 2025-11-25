@@ -1,0 +1,7 @@
+{
+  "name": "MERKEZ AI",
+  "description": "MERKEZ AI ile sohbet et. Senin yeni arkadaşın.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
